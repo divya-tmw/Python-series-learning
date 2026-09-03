@@ -1,0 +1,9 @@
+#find sum(total) of array elements
+
+arr =[10,20,30,40,50,]
+sum=0
+
+for i in arr:
+    sum = sum + i
+
+print("sum is:",sum)
