@@ -1,2 +1,3 @@
-Name: Divya sharma
-Age: 18
+Name: Divya
+course: BSc IT
+Year: second year
