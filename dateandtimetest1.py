@@ -1,9 +1,7 @@
 #calculate date and time
 
 from datetime import timedelta
-
 from datetime import datetime
-from datetime import date
 
 now = datetime.now()
 print("current date and time:",now)

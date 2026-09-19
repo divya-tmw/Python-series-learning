@@ -1,3 +1,5 @@
+#current day name
+
 import datetime
 
 today = datetime.datetime.now()
