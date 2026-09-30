@@ -20,7 +20,7 @@ class test(student):
 
 class sports:
     def spinput(self):
-        self.grade=input("Enter the grade in sports:")
+       self.grade=input("Enter the grade in sports:")            
 
 class result(test,sports):
     def calc(self):
